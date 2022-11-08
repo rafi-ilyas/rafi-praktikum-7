@@ -1,0 +1,58 @@
+.box1{
+     background-color: blue;
+     width: 20%;
+     height: 700px;
+     margin: 2.5% 2%;
+
+}
+
+.box2{
+      background-color: cyan;
+      width: 20%;
+      height: 700px;
+      margin: 2.5% 2%;
+
+}
+
+.box3{
+      background-color: red;
+      width: 20%;
+      height: 700px;
+      margin: 2.5% 2%;
+
+}
+
+.box4{
+      background-color: darkviolet;
+      width: 20%;
+      height: 700px;
+      margin: 2.5% 2%;
+      
+}
+
+body{
+    display: flex;
+    height: 700px;
+    justify-content: center;
+}
+
+
+.img{
+    width: 300px;
+    margin: 0em 2em;
+}
+
+.img2{
+    width: 300px;
+    margin: 0em 2em;
+}
+
+.img3{
+    width: 300px;
+    margin: 0em 2em;
+}
+
+.img4{
+    width: 300px;
+    margin: 0em 2em;
+}
